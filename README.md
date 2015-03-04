@@ -1,3 +1,1 @@
-# flc
-
-Forum like communication
+# FLC - Forum like communication
